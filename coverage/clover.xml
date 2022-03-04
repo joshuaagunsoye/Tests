@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644968385701" clover="3.2.0">
+  <project timestamp="1644968385702" name="All files">
+    <metrics statements="123" coveredstatements="110" conditionals="67" coveredconditionals="48" methods="20" coveredmethods="20" elements="210" coveredelements="178" complexity="0" loc="123" ncloc="123" packages="1" files="12" classes="12"/>
+    <file name="averageMean.js" path="C:\Users\joluw\Videos\Testing\Project\averageMean.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="bubbleSort.js" path="C:\Users\joluw\Videos\Testing\Project\bubbleSort.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="8" type="stmt"/>
+      <line num="8" count="20" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="12" type="stmt"/>
+      <line num="15" count="2" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+    </file>
+    <file name="checkCamelCase.js" path="C:\Users\joluw\Videos\Testing\Project\checkCamelCase.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+    <file name="leapYear.js" path="C:\Users\joluw\Videos\Testing\Project\leapYear.js">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="18" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="19" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="maxCharacter.js" path="C:\Users\joluw\Videos\Testing\Project\maxCharacter.js">
+      <metrics statements="18" coveredstatements="16" conditionals="10" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="4" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="99" type="stmt"/>
+      <line num="11" count="99" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="83" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="7" type="stmt"/>
+      <line num="19" count="7" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+    <file name="primeCheck.js" path="C:\Users\joluw\Videos\Testing\Project\primeCheck.js">
+      <metrics statements="10" coveredstatements="9" conditionals="10" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="4" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="6" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="43" type="cond" truecount="1" falsecount="1"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="reverse.js" path="C:\Users\joluw\Videos\Testing\Project\reverse.js">
+      <metrics statements="10" coveredstatements="9" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="12" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="16" count="2" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="10" type="stmt"/>
+      <line num="22" count="10" type="stmt"/>
+      <line num="24" count="10" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="rgbToHex.js" path="C:\Users\joluw\Videos\Testing\Project\rgbToHex.js">
+      <metrics statements="5" coveredstatements="4" conditionals="7" coveredconditionals="6" methods="2" coveredmethods="2"/>
+      <line num="2" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="10" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+    </file>
+    <file name="romanToDeci.js" path="C:\Users\joluw\Videos\Testing\Project\romanToDeci.js">
+      <metrics statements="15" coveredstatements="15" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="12" count="3" type="stmt"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="17" count="3" type="stmt"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="20" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="5" type="stmt"/>
+      <line num="25" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="28" count="2" type="stmt"/>
+      <line num="31" count="5" type="stmt"/>
+      <line num="33" count="3" type="stmt"/>
+      <line num="36" count="1" type="stmt"/>
+    </file>
+    <file name="rotThirteen.js" path="C:\Users\joluw\Videos\Testing\Project\rotThirteen.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="182" type="stmt"/>
+      <line num="5" count="100" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="snakeCase.js" path="C:\Users\joluw\Videos\Testing\Project\snakeCase.js">
+      <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="4" count="0" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+    <file name="validCreditCard.js" path="C:\Users\joluw\Videos\Testing\Project\validCreditCard.js">
+      <metrics statements="27" coveredstatements="22" conditionals="16" coveredconditionals="11" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="4" count="32" type="stmt"/>
+      <line num="5" count="32" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="16" type="stmt"/>
+      <line num="9" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="14" count="32" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="23" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="28" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="29" count="0" type="stmt"/>
+      <line num="31" count="2" type="stmt"/>
+      <line num="32" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="35" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="36" count="0" type="stmt"/>
+      <line num="38" count="2" type="cond" truecount="1" falsecount="1"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

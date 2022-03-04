@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uiTest.test.js",
+  "dependencies": {
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^12.1.2"
+  },
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
